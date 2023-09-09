@@ -2,7 +2,7 @@ import os
 from atlassian import Confluence # See https://atlassian-python-api.readthedocs.io/index.html
 from bs4 import BeautifulSoup
 
-CONFLUENCE_URL = 'https://manucommerce.atlassian.net/'
+CONFLUENCE_URL = 'https://shush.atlassian.net/'#Give your atlassian url
 CONFLUENCE_SPACE = 'Recipes'
 CONFLUENCE_USER = "manu.commerce@gmail.com"
 CONFLUENCE_PASSWORD = 'API_Key_For_Confluence' #"API_Key_For_Confluence"
